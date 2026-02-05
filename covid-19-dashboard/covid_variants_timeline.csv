@@ -1,0 +1,6 @@
+variant_name,variant_code,start_date,end_date,duration_days,duration_months,period_number,color_code
+델타,Delta,2021-07-25,2022-01-15,174,5.7,1,#FF6B6B
+오미크론 BA.1/BA.2,Omicron BA.1/BA.2,2022-01-16,2022-07-09,174,5.8,2,#4ECDC4
+오미크론 BA.5,Omicron BA.5,2022-07-24,2022-12-31,160,5.2,3,#45B7D1
+오미크론 BN.1,Omicron BN.1,2023-01-22,2023-03-25,62,2.0,4,#96CEB4
+오미크론 XBB,Omicron XBB,2023-04-16,2023-07-31,106,3.5,5,#FFEAA7

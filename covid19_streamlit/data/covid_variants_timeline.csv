@@ -1,0 +1,6 @@
+variant,start_date,end_date,color
+Delta,2021-07-25,2022-01-15,#FF6B6B
+Omicron BA.1/BA.2,2022-01-16,2022-07-09,#4ECDC4
+Omicron BA.5,2022-07-24,2022-12-31,#45B7D1
+Omicron BN.1,2023-01-22,2023-03-25,#96CEB4
+Omicron XBB,2023-04-16,2023-07-31,#FFEAA7
